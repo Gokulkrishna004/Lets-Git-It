@@ -1,2 +1,1 @@
-# Final Code
-G 4
+# Final Code 
